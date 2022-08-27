@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed section 3 on search algorithms.">
-      <change afterPath="$PROJECT_DIR$/src/backtracking/ColoringGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backtracking/HamiltonianCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backtracking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backtracking/NQueens.java" afterDir="false" />
+    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed up to the coloring graph algorithm from section 6 on backtracking.">
+      <change afterPath="$PROJECT_DIR$/src/backtracking/KnightsTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/KadaneAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/RodCutting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/SubsetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backtracking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backtracking/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660329319166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed up to the coloring graph algorithm from section 6 on backtracking.">
+      <created>1660500066246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660500066246</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed first section of the course over Recursion." />
     <MESSAGE value="Completed section 3 on search algorithms." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed section 3 on search algorithms." />
+    <MESSAGE value="Completed up to the coloring graph algorithm from section 6 on backtracking." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed up to the coloring graph algorithm from section 6 on backtracking." />
   </component>
 </project>
