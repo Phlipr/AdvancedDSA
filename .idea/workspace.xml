@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed up to the coloring graph algorithm from section 6 on backtracking.">
-      <change afterPath="$PROJECT_DIR$/src/backtracking/KnightsTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backtracking/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/KadaneAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/RodCutting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/SubsetSum.java" afterDir="false" />
+    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed the dynamic programming section.">
+      <change afterPath="$PROJECT_DIR$/src/binpacking/Bin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binpacking/FirstFitDecreasingBinPacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binpacking/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideandconquer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideandconquer/MergeSortDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/ClosestPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/XSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/YSorter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backtracking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backtracking/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -32,6 +35,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DBijOGpg5kOhg4JPR8LNGYXjLh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,6 +51,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="divideandconquer.closestpairofpoints" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660500066246</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed the dynamic programming section.">
+      <created>1661640021927</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661640021927</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +111,22 @@
     <MESSAGE value="Completed first section of the course over Recursion." />
     <MESSAGE value="Completed section 3 on search algorithms." />
     <MESSAGE value="Completed up to the coloring graph algorithm from section 6 on backtracking." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed up to the coloring graph algorithm from section 6 on backtracking." />
+    <MESSAGE value="Completed the dynamic programming section." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the dynamic programming section." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/ClosestPairs.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
