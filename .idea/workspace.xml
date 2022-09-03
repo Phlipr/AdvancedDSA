@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed the dynamic programming section.">
-      <change afterPath="$PROJECT_DIR$/src/binpacking/Bin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binpacking/FirstFitDecreasingBinPacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binpacking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divideandconquer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divideandconquer/MergeSortDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/ClosestPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/XSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divideandconquer/closestpairofpoints/YSorter.java" afterDir="false" />
+    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed the Bin Packing and Divide and Conquer Methods Sections.">
+      <change afterPath="$PROJECT_DIR$/src/interviewquestions/DutchFlagProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestions/EggDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestions/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661640021927</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completed the Bin Packing and Divide and Conquer Methods Sections.">
+      <created>1661903374971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661903374971</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,7 +112,8 @@
     <MESSAGE value="Completed section 3 on search algorithms." />
     <MESSAGE value="Completed up to the coloring graph algorithm from section 6 on backtracking." />
     <MESSAGE value="Completed the dynamic programming section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the dynamic programming section." />
+    <MESSAGE value="Completed the Bin Packing and Divide and Conquer Methods Sections." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Bin Packing and Divide and Conquer Methods Sections." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
