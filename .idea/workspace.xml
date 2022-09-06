@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed the Bin Packing and Divide and Conquer Methods Sections.">
-      <change afterPath="$PROJECT_DIR$/src/interviewquestions/DutchFlagProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewquestions/EggDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewquestions/Main.java" afterDir="false" />
+    <list default="true" id="ced6b09d-daa9-4b1c-a832-bf1071ed770c" name="Changes" comment="Completed the course.">
+      <change afterPath="$PROJECT_DIR$/src/interviewquestions/tests/EggDropTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancedDSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedDSA.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +37,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="divideandconquer.closestpairofpoints" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EggDropTest.testEggDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AdvancedDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewquestions.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interviewquestions.tests" />
+      <option name="MAIN_CLASS_NAME" value="interviewquestions.tests.EggDropTest" />
+      <option name="METHOD_NAME" value="testEggDrop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EggDropTest.testEggDrop" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661903374971</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed the course.">
+      <created>1662236909123</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662236909123</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +146,8 @@
     <MESSAGE value="Completed up to the coloring graph algorithm from section 6 on backtracking." />
     <MESSAGE value="Completed the dynamic programming section." />
     <MESSAGE value="Completed the Bin Packing and Divide and Conquer Methods Sections." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the Bin Packing and Divide and Conquer Methods Sections." />
+    <MESSAGE value="Completed the course." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the course." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
